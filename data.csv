@@ -6,4 +6,12 @@ David,,Male,65000,Delhi,0
 Eva,35,Female,,Mumbai,1
 Frank,29,Male,52000,Bangalore,0
 
+cd "C:\Users\Anuj Kumar Jain\PycharmProjects\Task 1"
 
+git init
+git add .
+git commit -m "Task 1 - Data Preprocessing Complete"
+
+git branch -M main
+git remote add origin https://github.com/Tanishka1302/Alfido-Tech-Internship.git
+git push -u origin main
